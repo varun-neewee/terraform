@@ -1,0 +1,8 @@
+project_id = "bps-dev-ssn"
+cluster_name = "test-cluster"
+region = "europe-west4"
+network = "k8s"
+subnet = "k8s-sub"
+maintenance_start_time = "2025-01-09T03:00:00Z"
+maintenance_end_time = "2026-01-08T03:00:00Z"
+maintenance_recurrence = "FREQ=WEEKLY;BYDAY=SA"
